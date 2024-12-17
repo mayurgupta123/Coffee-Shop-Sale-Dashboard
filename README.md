@@ -1,2 +1,1 @@
-# Coffee-Shop-Sales-Dashboard
-This project features a Coffee Shop Sales Dashboard developed in Excel. The dashboard provides an interactive and visual analysis of key sales metrics, enabling stakeholders to monitor business performance effectively.
+![Coffee Shop Sales Dashboard](https://github.com/user-attachments/assets/ee016bf7-3394-4a29-98c4-0dc375345dc4)
